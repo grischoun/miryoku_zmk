@@ -12,6 +12,6 @@ jobs:
       shield: '["corne_left","corne_right"]'
       kconfig: '["CONFIG_ZMK_DISPLAY=y"]'
       alphas: '["qwertz"]'
-      layers: '[flip]'
+      layers: '["flip"]'
       clipboard: '["mac"]'
       
