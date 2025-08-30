@@ -13,5 +13,6 @@ jobs:
       kconfig: '["CONFIG_ZMK_DISPLAY=y"]'
       alphas: '["qwertz"]'
       layers: '["flip"]'
+      nav: '["INVERTEDT"]'
       clipboard: '["mac"]'
       
